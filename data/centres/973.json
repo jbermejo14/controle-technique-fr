@@ -1,0 +1,117 @@
+[
+  {
+    "id": "50262704500011",
+    "nom": "INTERNATIONAL CONTROLE TECHNIQUE",
+    "adresse": "RTE DE LA MADELEINE",
+    "cp": "97300",
+    "ville": "Cayenne",
+    "dep": "973",
+    "tel": "0594282801",
+    "url": "www.autosur.com",
+    "lat": 4.925267,
+    "lng": -52.328052,
+    "updated": "2020-09-01",
+    "prices": {
+      "essence": 85,
+      "diesel": 90,
+      "electrique": 90,
+      "hybride": 85,
+      "gaz": 85,
+      "moto": null,
+      "contreVisite": 85
+    },
+    "prixBase": 85
+  },
+  {
+    "id": "85368566700018",
+    "nom": "G.CONTROLE",
+    "adresse": "17 RUE CHAWARI",
+    "cp": "97351",
+    "ville": "Matoury",
+    "dep": "973",
+    "tel": "0694986812",
+    "url": null,
+    "lat": 4.894267,
+    "lng": -52.33763,
+    "updated": "2020-08-31",
+    "prices": {
+      "essence": 90,
+      "diesel": 90,
+      "electrique": 90,
+      "hybride": 90,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 90
+  },
+  {
+    "id": "43284703600014",
+    "nom": "ATOUT CONTROLE",
+    "adresse": "22 RUE DES COCCINELLES",
+    "cp": "97300",
+    "ville": "Cayenne",
+    "dep": "973",
+    "tel": "0594303555",
+    "url": null,
+    "lat": 4.902856,
+    "lng": -52.317303,
+    "updated": "2020-12-11",
+    "prices": {
+      "essence": 90,
+      "diesel": 90,
+      "electrique": 90,
+      "hybride": 90,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 15
+    },
+    "prixBase": 90
+  },
+  {
+    "id": "43960540300054",
+    "nom": "SECURAUTO",
+    "adresse": "SABLANCE",
+    "cp": "97355",
+    "ville": "Macouria",
+    "dep": "973",
+    "tel": null,
+    "url": null,
+    "lat": 4.939687,
+    "lng": -52.408778,
+    "updated": "2020-09-06",
+    "prices": {
+      "essence": 90,
+      "diesel": 90,
+      "electrique": 90,
+      "hybride": 90,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 90
+  },
+  {
+    "id": "43284703600022",
+    "nom": "ATOUT CONTROLE",
+    "adresse": "LOT COLLERY I",
+    "cp": "97300",
+    "ville": "Cayenne",
+    "dep": "973",
+    "tel": "0594312972",
+    "url": null,
+    "lat": 4.908092,
+    "lng": -52.32351,
+    "updated": "2020-12-11",
+    "prices": {
+      "essence": 95,
+      "diesel": 95,
+      "electrique": 95,
+      "hybride": 95,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 25
+    },
+    "prixBase": 95
+  }
+]

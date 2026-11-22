@@ -1,0 +1,163 @@
+[
+  {
+    "id": "35402247700021",
+    "nom": "SUD AUTO BILAN",
+    "adresse": "LD MAZZETTA",
+    "cp": "20137",
+    "ville": "Porto-Vecchio",
+    "dep": "2A",
+    "tel": "0495701332",
+    "url": null,
+    "lat": 41.580688,
+    "lng": 9.273105,
+    "updated": "2020-11-25",
+    "prices": {
+      "essence": 75,
+      "diesel": 75,
+      "electrique": 75,
+      "hybride": 75,
+      "gaz": 75,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 75
+  },
+  {
+    "id": "50265687900017",
+    "nom": "CONTROLE TECHNIQUE AUTO AJACCIEN",
+    "adresse": "RTE DE MEZZAVIA",
+    "cp": "20090",
+    "ville": "Ajaccio",
+    "dep": "2A",
+    "tel": "0495208520",
+    "url": null,
+    "lat": 41.952404,
+    "lng": 8.778853,
+    "updated": "2020-09-09",
+    "prices": {
+      "essence": 96,
+      "diesel": 96,
+      "electrique": 106,
+      "hybride": 106,
+      "gaz": 125,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 96
+  },
+  {
+    "id": "50265687900025",
+    "nom": "CONTROLE TECHNIQUE AUTO AJACCIEN",
+    "adresse": "RTE DE MEZZAVIA",
+    "cp": "20090",
+    "ville": "Ajaccio",
+    "dep": "2A",
+    "tel": "0495208520",
+    "url": "https://controle-technique.autosur.fr/500-autosur-ajaccio",
+    "lat": 41.952404,
+    "lng": 8.778853,
+    "updated": "2020-09-04",
+    "prices": {
+      "essence": 96,
+      "diesel": 96,
+      "electrique": 106,
+      "hybride": 96,
+      "gaz": 125,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 96
+  },
+  {
+    "id": "38350781100016",
+    "nom": "AUTO CONTROLE SARL",
+    "adresse": "11 LOT ARTISANAL DU STILETTO",
+    "cp": "20090",
+    "ville": "Ajaccio",
+    "dep": "2A",
+    "tel": "0495208686",
+    "url": "https://www.dekra-norisko.fr/centres-controle-technique/ajaccio,20090/s-a-r-l-auto-controle,s02ad004",
+    "lat": 41.946823,
+    "lng": 8.766324,
+    "updated": "2020-09-10",
+    "prices": {
+      "essence": 97,
+      "diesel": 97,
+      "electrique": 97,
+      "hybride": 97,
+      "gaz": 145,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 97
+  },
+  {
+    "id": "33230423700032",
+    "nom": "SOCIETE CONTROLE TECHNIQUE AUTOMOBILE D'AJACCIO",
+    "adresse": "LD CACCIARACCIA",
+    "cp": "20167",
+    "ville": "Afa",
+    "dep": "2A",
+    "tel": "0495202573",
+    "url": null,
+    "lat": 41.953227,
+    "lng": 8.787377,
+    "updated": "2020-09-17",
+    "prices": {
+      "essence": 99,
+      "diesel": 99,
+      "electrique": 109,
+      "hybride": 109,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 20
+    },
+    "prixBase": 99
+  },
+  {
+    "id": "33230423700024",
+    "nom": "SOCIETE CONTROLE TECHNIQUE AUTOMOBILE D'AJACCIO",
+    "adresse": "1 AV COLONEL COLONNA D'ORNANO",
+    "cp": "20090",
+    "ville": "Ajaccio",
+    "dep": "2A",
+    "tel": null,
+    "url": null,
+    "lat": 41.92813,
+    "lng": 8.738426,
+    "updated": "2020-09-17",
+    "prices": {
+      "essence": 99,
+      "diesel": 99,
+      "electrique": 109,
+      "hybride": 109,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 20
+    },
+    "prixBase": 99
+  },
+  {
+    "id": "53008011800017",
+    "nom": "SAGONE CONTROLE",
+    "adresse": "RTE DE VICO",
+    "cp": "20118",
+    "ville": "Vico",
+    "dep": "2A",
+    "tel": "0495280745",
+    "url": null,
+    "lat": 42.130653,
+    "lng": 8.705187,
+    "updated": "2020-09-01",
+    "prices": {
+      "essence": 100,
+      "diesel": 100,
+      "electrique": 120,
+      "hybride": 120,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 100
+  }
+]

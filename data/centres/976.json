@@ -1,0 +1,25 @@
+[
+  {
+    "id": "88252352500013",
+    "nom": "MAYOTTE CONTROLE SERVICES",
+    "adresse": "LONGONI ZI VALLEE 3",
+    "cp": "97600",
+    "ville": "Koungou",
+    "dep": "976",
+    "tel": "0639699702",
+    "url": "0639699702",
+    "lat": -12.73382,
+    "lng": 45.178931,
+    "updated": "2026-04-22",
+    "prices": {
+      "essence": 95,
+      "diesel": 95,
+      "electrique": null,
+      "hybride": null,
+      "gaz": null,
+      "moto": null,
+      "contreVisite": 30
+    },
+    "prixBase": 95
+  }
+]

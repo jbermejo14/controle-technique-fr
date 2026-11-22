@@ -1,0 +1,4475 @@
+[
+  {
+    "code": "01",
+    "name": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 77,
+    "prixMoyen": 90,
+    "prixMin": 72,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Bourg-en-Bresse",
+        "count": 7
+      },
+      {
+        "ville": "Péronnas",
+        "count": 4
+      },
+      {
+        "ville": "Ambérieu-en-Bugey",
+        "count": 3
+      },
+      {
+        "ville": "Oyonnax",
+        "count": 3
+      },
+      {
+        "ville": "Bellegarde-sur-Valserine",
+        "count": 3
+      },
+      {
+        "ville": "Frans",
+        "count": 2
+      },
+      {
+        "ville": "Meximieux",
+        "count": 2
+      },
+      {
+        "ville": "Villeneuve",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "name": "Aisne",
+    "region": "Hauts-de-France",
+    "regionSlug": "hauts-de-france",
+    "totalCentres": 54,
+    "prixMoyen": 81,
+    "prixMin": 68,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Saint-Quentin",
+        "count": 8
+      },
+      {
+        "ville": "Soissons",
+        "count": 5
+      },
+      {
+        "ville": "Laon",
+        "count": 4
+      },
+      {
+        "ville": "Château-Thierry",
+        "count": 3
+      },
+      {
+        "ville": "Villers-Cotterêts",
+        "count": 2
+      },
+      {
+        "ville": "Hirson",
+        "count": 2
+      },
+      {
+        "ville": "Chauny",
+        "count": 2
+      },
+      {
+        "ville": "Guise",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "name": "Allier",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 55,
+    "prixMoyen": 79,
+    "prixMin": 65,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Montluçon",
+        "count": 9
+      },
+      {
+        "ville": "Vichy",
+        "count": 4
+      },
+      {
+        "ville": "Domérat",
+        "count": 3
+      },
+      {
+        "ville": "Avermes",
+        "count": 3
+      },
+      {
+        "ville": "Abrest",
+        "count": 2
+      },
+      {
+        "ville": "Bellerive-sur-Allier",
+        "count": 2
+      },
+      {
+        "ville": "Varennes-sur-Allier",
+        "count": 2
+      },
+      {
+        "ville": "Gannat",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "name": "Alpes-de-Haute-Provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 22,
+    "prixMoyen": 95,
+    "prixMin": 87,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Manosque",
+        "count": 4
+      },
+      {
+        "ville": "Digne-les-Bains",
+        "count": 3
+      },
+      {
+        "ville": "Sisteron",
+        "count": 2
+      },
+      {
+        "ville": "Mane",
+        "count": 2
+      },
+      {
+        "ville": "Château-Arnoux-Saint-Auban",
+        "count": 1
+      },
+      {
+        "ville": "Peipin",
+        "count": 1
+      },
+      {
+        "ville": "Riez",
+        "count": 1
+      },
+      {
+        "ville": "Peyruis",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "name": "Hautes-Alpes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 21,
+    "prixMoyen": 90,
+    "prixMin": 78,
+    "prixMax": 102,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Gap",
+        "count": 3
+      },
+      {
+        "ville": "Briançon",
+        "count": 3
+      },
+      {
+        "ville": "Embrun",
+        "count": 2
+      },
+      {
+        "ville": "Laragne-Montéglin",
+        "count": 2
+      },
+      {
+        "ville": "Veynes",
+        "count": 2
+      },
+      {
+        "ville": "Guillestre",
+        "count": 1
+      },
+      {
+        "ville": "Eygliers",
+        "count": 1
+      },
+      {
+        "ville": "Tallard",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "06",
+    "name": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 82,
+    "prixMoyen": 95,
+    "prixMin": 74,
+    "prixMax": 120,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Nice",
+        "count": 20
+      },
+      {
+        "ville": "Cannes",
+        "count": 6
+      },
+      {
+        "ville": "Cagnes-sur-Mer",
+        "count": 6
+      },
+      {
+        "ville": "Saint-Laurent-du-Var",
+        "count": 5
+      },
+      {
+        "ville": "Antibes",
+        "count": 4
+      },
+      {
+        "ville": "Grasse",
+        "count": 4
+      },
+      {
+        "ville": "Le Cannet",
+        "count": 4
+      },
+      {
+        "ville": "Mougins",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "07",
+    "name": "Ardèche",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 42,
+    "prixMoyen": 85,
+    "prixMin": 65,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Aubenas",
+        "count": 4
+      },
+      {
+        "ville": "Davézieux",
+        "count": 3
+      },
+      {
+        "ville": "Le Teil",
+        "count": 3
+      },
+      {
+        "ville": "Privas",
+        "count": 3
+      },
+      {
+        "ville": "Meysse",
+        "count": 2
+      },
+      {
+        "ville": "Lavilledieu",
+        "count": 2
+      },
+      {
+        "ville": "Annonay",
+        "count": 2
+      },
+      {
+        "ville": "Ruoms",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "name": "Ardennes",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 33,
+    "prixMoyen": 82,
+    "prixMin": 75,
+    "prixMax": 99,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Charleville-Mézières",
+        "count": 7
+      },
+      {
+        "ville": "Sedan",
+        "count": 4
+      },
+      {
+        "ville": "Revin",
+        "count": 2
+      },
+      {
+        "ville": "Rethel",
+        "count": 2
+      },
+      {
+        "ville": "Givet",
+        "count": 2
+      },
+      {
+        "ville": "Bogny-sur-Meuse",
+        "count": 1
+      },
+      {
+        "ville": "Carignan",
+        "count": 1
+      },
+      {
+        "ville": "Château-Porcien",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "09",
+    "name": "Ariège",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 24,
+    "prixMoyen": 74,
+    "prixMin": 55,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Tarascon-sur-Ariège",
+        "count": 3
+      },
+      {
+        "ville": "Pamiers",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Jean-du-Falga",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Girons",
+        "count": 2
+      },
+      {
+        "ville": "Les Bordes-sur-Arize",
+        "count": 1
+      },
+      {
+        "ville": "Saint-Jean-de-Verges",
+        "count": 1
+      },
+      {
+        "ville": "Mazères",
+        "count": 1
+      },
+      {
+        "ville": "Lézat-sur-Lèze",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "10",
+    "name": "Aube",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 43,
+    "prixMoyen": 91,
+    "prixMin": 80,
+    "prixMax": 105,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Troyes",
+        "count": 9
+      },
+      {
+        "ville": "Brienne-le-Château",
+        "count": 4
+      },
+      {
+        "ville": "Romilly-sur-Seine",
+        "count": 3
+      },
+      {
+        "ville": "La Chapelle-Saint-Luc",
+        "count": 3
+      },
+      {
+        "ville": "Maizières-la-Grande-Paroisse",
+        "count": 2
+      },
+      {
+        "ville": "Ervy-le-Châtel",
+        "count": 2
+      },
+      {
+        "ville": "Estissac",
+        "count": 2
+      },
+      {
+        "ville": "Nogent-sur-Seine",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "11",
+    "name": "Aude",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 40,
+    "prixMoyen": 77,
+    "prixMin": 59,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Carcassonne",
+        "count": 6
+      },
+      {
+        "ville": "Narbonne",
+        "count": 5
+      },
+      {
+        "ville": "Trèbes",
+        "count": 3
+      },
+      {
+        "ville": "Castelnaudary",
+        "count": 3
+      },
+      {
+        "ville": "Lézignan-Corbières",
+        "count": 3
+      },
+      {
+        "ville": "Sigean",
+        "count": 2
+      },
+      {
+        "ville": "Limoux",
+        "count": 2
+      },
+      {
+        "ville": "Cuxac-d'Aude",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "12",
+    "name": "Aveyron",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 53,
+    "prixMoyen": 77,
+    "prixMin": 50,
+    "prixMax": 88,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Millau",
+        "count": 6
+      },
+      {
+        "ville": "Villefranche-de-Rouergue",
+        "count": 4
+      },
+      {
+        "ville": "Onet-le-Château",
+        "count": 4
+      },
+      {
+        "ville": "Luc-la-Primaube",
+        "count": 3
+      },
+      {
+        "ville": "Baraqueville",
+        "count": 2
+      },
+      {
+        "ville": "Espalion",
+        "count": 2
+      },
+      {
+        "ville": "Capdenac-Gare",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Affrique",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "13",
+    "name": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 129,
+    "prixMoyen": 90,
+    "prixMin": 65,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Aix-en-Provence",
+        "count": 8
+      },
+      {
+        "ville": "Arles",
+        "count": 6
+      },
+      {
+        "ville": "Salon-de-Provence",
+        "count": 5
+      },
+      {
+        "ville": "Martigues",
+        "count": 5
+      },
+      {
+        "ville": "Marignane",
+        "count": 4
+      },
+      {
+        "ville": "Marseille  4e",
+        "count": 4
+      },
+      {
+        "ville": "Aubagne",
+        "count": 4
+      },
+      {
+        "ville": "Marseille 11e",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "code": "14",
+    "name": "Calvados",
+    "region": "Normandie",
+    "regionSlug": "normandie",
+    "totalCentres": 82,
+    "prixMoyen": 80,
+    "prixMin": 65,
+    "prixMax": 91,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Lisieux",
+        "count": 8
+      },
+      {
+        "ville": "Hérouville-Saint-Clair",
+        "count": 4
+      },
+      {
+        "ville": "Argences",
+        "count": 4
+      },
+      {
+        "ville": "Caen",
+        "count": 4
+      },
+      {
+        "ville": "Vire",
+        "count": 3
+      },
+      {
+        "ville": "Falaise",
+        "count": 3
+      },
+      {
+        "ville": "Moult",
+        "count": 2
+      },
+      {
+        "ville": "Douvres-la-Délivrande",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "15",
+    "name": "Cantal",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 17,
+    "prixMoyen": 75,
+    "prixMin": 65,
+    "prixMax": 89,
+    "prixContreVisiteMoyen": 9,
+    "topVilles": [
+      {
+        "ville": "Saint-Flour",
+        "count": 3
+      },
+      {
+        "ville": "Aurillac",
+        "count": 3
+      },
+      {
+        "ville": "Riom-ès-Montagnes",
+        "count": 2
+      },
+      {
+        "ville": "Mauriac",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Georges",
+        "count": 1
+      },
+      {
+        "ville": "Massiac",
+        "count": 1
+      },
+      {
+        "ville": "Cayrols",
+        "count": 1
+      },
+      {
+        "ville": "Saint-Étienne-de-Maurs",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "16",
+    "name": "Charente",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 41,
+    "prixMoyen": 79,
+    "prixMin": 65,
+    "prixMax": 94,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Cognac",
+        "count": 3
+      },
+      {
+        "ville": "Angoulême",
+        "count": 3
+      },
+      {
+        "ville": "Mansle",
+        "count": 2
+      },
+      {
+        "ville": "L'Isle-d'Espagnac",
+        "count": 2
+      },
+      {
+        "ville": "Jarnac",
+        "count": 2
+      },
+      {
+        "ville": "Barbezieux-Saint-Hilaire",
+        "count": 2
+      },
+      {
+        "ville": "Châteauneuf-sur-Charente",
+        "count": 2
+      },
+      {
+        "ville": "Confolens",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "17",
+    "name": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 75,
+    "prixMoyen": 80,
+    "prixMin": 65,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Rochefort",
+        "count": 5
+      },
+      {
+        "ville": "La Rochelle",
+        "count": 5
+      },
+      {
+        "ville": "Saintes",
+        "count": 4
+      },
+      {
+        "ville": "Aytré",
+        "count": 4
+      },
+      {
+        "ville": "Saujon",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Jean-d'Angély",
+        "count": 3
+      },
+      {
+        "ville": "Royan",
+        "count": 3
+      },
+      {
+        "ville": "Puilboreau",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "18",
+    "name": "Cher",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 50,
+    "prixMoyen": 80,
+    "prixMin": 63,
+    "prixMax": 92,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Bourges",
+        "count": 11
+      },
+      {
+        "ville": "Vierzon",
+        "count": 5
+      },
+      {
+        "ville": "Saint-Amand-Montrond",
+        "count": 5
+      },
+      {
+        "ville": "Aubigny-sur-Nère",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Doulchard",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Florent-sur-Cher",
+        "count": 3
+      },
+      {
+        "ville": "Mehun-sur-Yèvre",
+        "count": 3
+      },
+      {
+        "ville": "Henrichemont",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "19",
+    "name": "Corrèze",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 28,
+    "prixMoyen": 80,
+    "prixMin": 70,
+    "prixMax": 89,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Brive-la-Gaillarde",
+        "count": 4
+      },
+      {
+        "ville": "Objat",
+        "count": 2
+      },
+      {
+        "ville": "Bort-les-Orgues",
+        "count": 2
+      },
+      {
+        "ville": "Tulle",
+        "count": 2
+      },
+      {
+        "ville": "Uzerche",
+        "count": 2
+      },
+      {
+        "ville": "Meymac",
+        "count": 2
+      },
+      {
+        "ville": "Ussel",
+        "count": 2
+      },
+      {
+        "ville": "Arnac-Pompadour",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "2A",
+    "name": "Corse-du-Sud",
+    "region": "Corse",
+    "regionSlug": "corse",
+    "totalCentres": 7,
+    "prixMoyen": 95,
+    "prixMin": 75,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 27,
+    "topVilles": [
+      {
+        "ville": "Ajaccio",
+        "count": 4
+      },
+      {
+        "ville": "Porto-Vecchio",
+        "count": 1
+      },
+      {
+        "ville": "Afa",
+        "count": 1
+      },
+      {
+        "ville": "Vico",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "2B",
+    "name": "Haute-Corse",
+    "region": "Corse",
+    "regionSlug": "corse",
+    "totalCentres": 16,
+    "prixMoyen": 88,
+    "prixMin": 50,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Bastia",
+        "count": 3
+      },
+      {
+        "ville": "Ventiseri",
+        "count": 2
+      },
+      {
+        "ville": "Corte",
+        "count": 2
+      },
+      {
+        "ville": "Cervione",
+        "count": 1
+      },
+      {
+        "ville": "Calvi",
+        "count": 1
+      },
+      {
+        "ville": "L'Île-Rousse",
+        "count": 1
+      },
+      {
+        "ville": "LUCCIANA",
+        "count": 1
+      },
+      {
+        "ville": "Vescovato",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "21",
+    "name": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 68,
+    "prixMoyen": 85,
+    "prixMin": 72,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Dijon",
+        "count": 14
+      },
+      {
+        "ville": "Chenôve",
+        "count": 6
+      },
+      {
+        "ville": "Beaune",
+        "count": 5
+      },
+      {
+        "ville": "Chevigny-Saint-Sauveur",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Julien",
+        "count": 2
+      },
+      {
+        "ville": "Saulieu",
+        "count": 2
+      },
+      {
+        "ville": "Nuits-Saint-Georges",
+        "count": 2
+      },
+      {
+        "ville": "Semur-en-Auxois",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "22",
+    "name": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "regionSlug": "bretagne",
+    "totalCentres": 69,
+    "prixMoyen": 84,
+    "prixMin": 55,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Lannion",
+        "count": 6
+      },
+      {
+        "ville": "Lamballe",
+        "count": 4
+      },
+      {
+        "ville": "Paimpol",
+        "count": 4
+      },
+      {
+        "ville": "Taden",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Brieuc",
+        "count": 3
+      },
+      {
+        "ville": "Plérin",
+        "count": 2
+      },
+      {
+        "ville": "Bégard",
+        "count": 2
+      },
+      {
+        "ville": "Plancoët",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "23",
+    "name": "Creuse",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 17,
+    "prixMoyen": 82,
+    "prixMin": 76,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 9,
+    "topVilles": [
+      {
+        "ville": "Guéret",
+        "count": 4
+      },
+      {
+        "ville": "La Souterraine",
+        "count": 2
+      },
+      {
+        "ville": "Aubusson",
+        "count": 2
+      },
+      {
+        "ville": "Boussac",
+        "count": 1
+      },
+      {
+        "ville": "Genouillac",
+        "count": 1
+      },
+      {
+        "ville": "Gouzon",
+        "count": 1
+      },
+      {
+        "ville": "Auzances",
+        "count": 1
+      },
+      {
+        "ville": "Évaux-les-Bains",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "24",
+    "name": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 52,
+    "prixMoyen": 78,
+    "prixMin": 60,
+    "prixMax": 87,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Bergerac",
+        "count": 4
+      },
+      {
+        "ville": "Terrasson-Lavilledieu",
+        "count": 3
+      },
+      {
+        "ville": "Trélissac",
+        "count": 3
+      },
+      {
+        "ville": "Montpon-Ménestérol",
+        "count": 3
+      },
+      {
+        "ville": "Sarlat-la-Canéda",
+        "count": 3
+      },
+      {
+        "ville": "Ribérac",
+        "count": 2
+      },
+      {
+        "ville": "Port-Sainte-Foy-et-Ponchapt",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Astier",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "25",
+    "name": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 63,
+    "prixMoyen": 83,
+    "prixMin": 60,
+    "prixMax": 105,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Besançon",
+        "count": 12
+      },
+      {
+        "ville": "Montbéliard",
+        "count": 4
+      },
+      {
+        "ville": "Audincourt",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Vit",
+        "count": 3
+      },
+      {
+        "ville": "Valdahon",
+        "count": 3
+      },
+      {
+        "ville": "Pontarlier",
+        "count": 3
+      },
+      {
+        "ville": "Pont-de-Roide",
+        "count": 2
+      },
+      {
+        "ville": "Arbouans",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "26",
+    "name": "Drôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 49,
+    "prixMoyen": 88,
+    "prixMin": 74,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Montélimar",
+        "count": 7
+      },
+      {
+        "ville": "Saint-Marcel-lès-Valence",
+        "count": 3
+      },
+      {
+        "ville": "Valence",
+        "count": 3
+      },
+      {
+        "ville": "Cléon-d'Andran",
+        "count": 2
+      },
+      {
+        "ville": "Bourg-lès-Valence",
+        "count": 2
+      },
+      {
+        "ville": "Saulce-sur-Rhône",
+        "count": 2
+      },
+      {
+        "ville": "Pierrelatte",
+        "count": 2
+      },
+      {
+        "ville": "Romans-sur-Isère",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "27",
+    "name": "Eure",
+    "region": "Normandie",
+    "regionSlug": "normandie",
+    "totalCentres": 80,
+    "prixMoyen": 83,
+    "prixMin": 55,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Évreux",
+        "count": 7
+      },
+      {
+        "ville": "Bernay",
+        "count": 4
+      },
+      {
+        "ville": "Louviers",
+        "count": 4
+      },
+      {
+        "ville": "Vernon",
+        "count": 4
+      },
+      {
+        "ville": "Gisors",
+        "count": 4
+      },
+      {
+        "ville": "Pacy-sur-Eure",
+        "count": 3
+      },
+      {
+        "ville": "Pont-Audemer",
+        "count": 3
+      },
+      {
+        "ville": "Brionne",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "28",
+    "name": "Eure-et-Loir",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 49,
+    "prixMoyen": 82,
+    "prixMin": 60,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Vernouillet",
+        "count": 4
+      },
+      {
+        "ville": "Dreux",
+        "count": 4
+      },
+      {
+        "ville": "Nogent-le-Rotrou",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Rémy-sur-Avre",
+        "count": 2
+      },
+      {
+        "ville": "Châteaudun",
+        "count": 2
+      },
+      {
+        "ville": "Châteauneuf-en-Thymerais",
+        "count": 2
+      },
+      {
+        "ville": "Luisant",
+        "count": 2
+      },
+      {
+        "ville": "Chaudon",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "29",
+    "name": "Finistère",
+    "region": "Bretagne",
+    "regionSlug": "bretagne",
+    "totalCentres": 104,
+    "prixMoyen": 84,
+    "prixMin": 68,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Brest",
+        "count": 15
+      },
+      {
+        "ville": "Quimper",
+        "count": 5
+      },
+      {
+        "ville": "Landivisiau",
+        "count": 3
+      },
+      {
+        "ville": "Châteauneuf-du-Faou",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Martin-des-Champs",
+        "count": 3
+      },
+      {
+        "ville": "Carhaix-Plouguer",
+        "count": 3
+      },
+      {
+        "ville": "Morlaix",
+        "count": 3
+      },
+      {
+        "ville": "Concarneau",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "30",
+    "name": "Gard",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 79,
+    "prixMoyen": 81,
+    "prixMin": 59,
+    "prixMax": 115,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Nîmes",
+        "count": 13
+      },
+      {
+        "ville": "Alès",
+        "count": 5
+      },
+      {
+        "ville": "Pont-Saint-Esprit",
+        "count": 4
+      },
+      {
+        "ville": "Vauvert",
+        "count": 3
+      },
+      {
+        "ville": "Uzès",
+        "count": 3
+      },
+      {
+        "ville": "Bagnols-sur-Cèze",
+        "count": 3
+      },
+      {
+        "ville": "Beaucaire",
+        "count": 2
+      },
+      {
+        "ville": "Le Vigan",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "31",
+    "name": "Haute-Garonne",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 136,
+    "prixMoyen": 83,
+    "prixMin": 59,
+    "prixMax": 115,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Toulouse",
+        "count": 27
+      },
+      {
+        "ville": "Colomiers",
+        "count": 5
+      },
+      {
+        "ville": "Muret",
+        "count": 4
+      },
+      {
+        "ville": "Grenade",
+        "count": 4
+      },
+      {
+        "ville": "L'Union",
+        "count": 3
+      },
+      {
+        "ville": "Seysses",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Gaudens",
+        "count": 3
+      },
+      {
+        "ville": "Castelnau-d'Estrétefonds",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "32",
+    "name": "Gers",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 31,
+    "prixMoyen": 76,
+    "prixMin": 69,
+    "prixMax": 85,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Auch",
+        "count": 3
+      },
+      {
+        "ville": "Condom",
+        "count": 3
+      },
+      {
+        "ville": "Gimont",
+        "count": 2
+      },
+      {
+        "ville": "Nogaro",
+        "count": 2
+      },
+      {
+        "ville": "Fleurance",
+        "count": 2
+      },
+      {
+        "ville": "L'Isle-Jourdain",
+        "count": 2
+      },
+      {
+        "ville": "Eauze",
+        "count": 2
+      },
+      {
+        "ville": "Vic-Fezensac",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "33",
+    "name": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 157,
+    "prixMoyen": 82,
+    "prixMin": 65,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Bordeaux",
+        "count": 9
+      },
+      {
+        "ville": "Pessac",
+        "count": 7
+      },
+      {
+        "ville": "Mérignac",
+        "count": 6
+      },
+      {
+        "ville": "Saint-André-de-Cubzac",
+        "count": 4
+      },
+      {
+        "ville": "Cavignac",
+        "count": 4
+      },
+      {
+        "ville": "Cenon",
+        "count": 4
+      },
+      {
+        "ville": "Le Bouscat",
+        "count": 4
+      },
+      {
+        "ville": "La Teste-de-Buch",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "code": "34",
+    "name": "Hérault",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 105,
+    "prixMoyen": 77,
+    "prixMin": 59,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Montpellier",
+        "count": 12
+      },
+      {
+        "ville": "Béziers",
+        "count": 9
+      },
+      {
+        "ville": "Castelnau-le-Lez",
+        "count": 4
+      },
+      {
+        "ville": "Agde",
+        "count": 4
+      },
+      {
+        "ville": "Sète",
+        "count": 4
+      },
+      {
+        "ville": "Pézenas",
+        "count": 3
+      },
+      {
+        "ville": "Lunel",
+        "count": 3
+      },
+      {
+        "ville": "La Grande-Motte",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "35",
+    "name": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "regionSlug": "bretagne",
+    "totalCentres": 105,
+    "prixMoyen": 87,
+    "prixMin": 75,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Rennes",
+        "count": 6
+      },
+      {
+        "ville": "Saint-Malo",
+        "count": 6
+      },
+      {
+        "ville": "Fougères",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Grégoire",
+        "count": 4
+      },
+      {
+        "ville": "Vitré",
+        "count": 4
+      },
+      {
+        "ville": "Cesson-Sévigné",
+        "count": 4
+      },
+      {
+        "ville": "Redon",
+        "count": 3
+      },
+      {
+        "ville": "Bruz",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "36",
+    "name": "Indre",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 28,
+    "prixMoyen": 84,
+    "prixMin": 71,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 10,
+    "topVilles": [
+      {
+        "ville": "Issoudun",
+        "count": 5
+      },
+      {
+        "ville": "Châteauroux",
+        "count": 4
+      },
+      {
+        "ville": "Le Blanc",
+        "count": 3
+      },
+      {
+        "ville": "Argenton-sur-Creuse",
+        "count": 2
+      },
+      {
+        "ville": "La Châtre",
+        "count": 2
+      },
+      {
+        "ville": "Déols",
+        "count": 2
+      },
+      {
+        "ville": "Levroux",
+        "count": 2
+      },
+      {
+        "ville": "Vatan",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "37",
+    "name": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 74,
+    "prixMoyen": 82,
+    "prixMin": 69,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Tours",
+        "count": 7
+      },
+      {
+        "ville": "Joué-lès-Tours",
+        "count": 5
+      },
+      {
+        "ville": "Azay-le-Rideau",
+        "count": 3
+      },
+      {
+        "ville": "Montlouis-sur-Loire",
+        "count": 3
+      },
+      {
+        "ville": "Chambray-lès-Tours",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Avertin",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Cyr-sur-Loire",
+        "count": 2
+      },
+      {
+        "ville": "Descartes",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "38",
+    "name": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 138,
+    "prixMoyen": 87,
+    "prixMin": 65,
+    "prixMax": 101,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Grenoble",
+        "count": 8
+      },
+      {
+        "ville": "Échirolles",
+        "count": 7
+      },
+      {
+        "ville": "Saint-Martin-d'Hères",
+        "count": 5
+      },
+      {
+        "ville": "Bourgoin-Jallieu",
+        "count": 5
+      },
+      {
+        "ville": "Tignieu-Jameyzieu",
+        "count": 4
+      },
+      {
+        "ville": "Crolles",
+        "count": 3
+      },
+      {
+        "ville": "Chanas",
+        "count": 3
+      },
+      {
+        "ville": "Vienne",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "39",
+    "name": "Jura",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 30,
+    "prixMoyen": 90,
+    "prixMin": 80,
+    "prixMax": 99,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Dole",
+        "count": 4
+      },
+      {
+        "ville": "Lons-le-Saunier",
+        "count": 3
+      },
+      {
+        "ville": "Champagnole",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Amour",
+        "count": 2
+      },
+      {
+        "ville": "Moirans-en-Montagne",
+        "count": 2
+      },
+      {
+        "ville": "Poligny",
+        "count": 2
+      },
+      {
+        "ville": "Montmorot",
+        "count": 1
+      },
+      {
+        "ville": "Arinthod",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "40",
+    "name": "Landes",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 57,
+    "prixMoyen": 77,
+    "prixMin": 64,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Dax",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Pierre-du-Mont",
+        "count": 3
+      },
+      {
+        "ville": "Biscarrosse",
+        "count": 3
+      },
+      {
+        "ville": "Mont-de-Marsan",
+        "count": 3
+      },
+      {
+        "ville": "Pouillon",
+        "count": 2
+      },
+      {
+        "ville": "Narrosse",
+        "count": 2
+      },
+      {
+        "ville": "Roquefort",
+        "count": 2
+      },
+      {
+        "ville": "Castets",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "41",
+    "name": "Loir-et-Cher",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 37,
+    "prixMoyen": 81,
+    "prixMin": 72,
+    "prixMax": 94,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Blois",
+        "count": 7
+      },
+      {
+        "ville": "Romorantin-Lanthenay",
+        "count": 5
+      },
+      {
+        "ville": "Montoire-sur-le-Loir",
+        "count": 2
+      },
+      {
+        "ville": "Lamotte-Beuvron",
+        "count": 2
+      },
+      {
+        "ville": "La Chaussée-Saint-Victor",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Gervais-la-Forêt",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Ouen",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Aignan",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "42",
+    "name": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 69,
+    "prixMoyen": 75,
+    "prixMin": 55,
+    "prixMax": 105,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Saint-Étienne",
+        "count": 11
+      },
+      {
+        "ville": "Roanne",
+        "count": 6
+      },
+      {
+        "ville": "Firminy",
+        "count": 3
+      },
+      {
+        "ville": "Riorges",
+        "count": 3
+      },
+      {
+        "ville": "Feurs",
+        "count": 3
+      },
+      {
+        "ville": "Boën-sur-Lignon",
+        "count": 2
+      },
+      {
+        "ville": "Fraisses",
+        "count": 2
+      },
+      {
+        "ville": "Le Coteau",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "43",
+    "name": "Haute-Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 29,
+    "prixMoyen": 77,
+    "prixMin": 57,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Le Puy-en-Velay",
+        "count": 3
+      },
+      {
+        "ville": "Brioude",
+        "count": 3
+      },
+      {
+        "ville": "Yssingeaux",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Paulien",
+        "count": 2
+      },
+      {
+        "ville": "Aurec-sur-Loire",
+        "count": 1
+      },
+      {
+        "ville": "Saint-Just-Malmont",
+        "count": 1
+      },
+      {
+        "ville": "Saugues",
+        "count": 1
+      },
+      {
+        "ville": "Dunières",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "44",
+    "name": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "regionSlug": "pays-de-la-loire",
+    "totalCentres": 126,
+    "prixMoyen": 92,
+    "prixMin": 76,
+    "prixMax": 108,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Nantes",
+        "count": 12
+      },
+      {
+        "ville": "Saint-Nazaire",
+        "count": 6
+      },
+      {
+        "ville": "Saint-Herblain",
+        "count": 6
+      },
+      {
+        "ville": "Rezé",
+        "count": 5
+      },
+      {
+        "ville": "Saint-Philbert-de-Grand-Lieu",
+        "count": 4
+      },
+      {
+        "ville": "Montoir-de-Bretagne",
+        "count": 3
+      },
+      {
+        "ville": "Orvault",
+        "count": 3
+      },
+      {
+        "ville": "Carquefou",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "45",
+    "name": "Loiret",
+    "region": "Centre-Val de Loire",
+    "regionSlug": "centre-val-de-loire",
+    "totalCentres": 75,
+    "prixMoyen": 72,
+    "prixMin": 50,
+    "prixMax": 89,
+    "prixContreVisiteMoyen": 8,
+    "topVilles": [
+      {
+        "ville": "Orléans",
+        "count": 6
+      },
+      {
+        "ville": "Gien",
+        "count": 4
+      },
+      {
+        "ville": "Châteauneuf-sur-Loire",
+        "count": 4
+      },
+      {
+        "ville": "Pithiviers",
+        "count": 3
+      },
+      {
+        "ville": "Villemandeur",
+        "count": 3
+      },
+      {
+        "ville": "Fleury-les-Aubrais",
+        "count": 3
+      },
+      {
+        "ville": "Saran",
+        "count": 3
+      },
+      {
+        "ville": "Chécy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "46",
+    "name": "Lot",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 20,
+    "prixMoyen": 78,
+    "prixMin": 67,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Figeac",
+        "count": 3
+      },
+      {
+        "ville": "Cahors",
+        "count": 3
+      },
+      {
+        "ville": "Gramat",
+        "count": 2
+      },
+      {
+        "ville": "Biars-sur-Cère",
+        "count": 2
+      },
+      {
+        "ville": "Limogne-en-Quercy",
+        "count": 1
+      },
+      {
+        "ville": "Lacapelle-Marival",
+        "count": 1
+      },
+      {
+        "ville": "Montcuq",
+        "count": 1
+      },
+      {
+        "ville": "ESPERE",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "47",
+    "name": "Lot-et-Garonne",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 41,
+    "prixMoyen": 78,
+    "prixMin": 69,
+    "prixMax": 85,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Agen",
+        "count": 3
+      },
+      {
+        "ville": "Pont-du-Casse",
+        "count": 3
+      },
+      {
+        "ville": "Miramont-de-Guyenne",
+        "count": 2
+      },
+      {
+        "ville": "Bias",
+        "count": 2
+      },
+      {
+        "ville": "Montayral",
+        "count": 2
+      },
+      {
+        "ville": "Le Passage",
+        "count": 2
+      },
+      {
+        "ville": "Castillonnès",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Sylvestre-sur-Lot",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "48",
+    "name": "Lozère",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 12,
+    "prixMoyen": 77,
+    "prixMin": 72,
+    "prixMax": 83,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Mende",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Chély-d'Apcher",
+        "count": 3
+      },
+      {
+        "ville": "Marvejols",
+        "count": 2
+      },
+      {
+        "ville": "Banassac",
+        "count": 1
+      },
+      {
+        "ville": "Langogne",
+        "count": 1
+      },
+      {
+        "ville": "Florac",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "49",
+    "name": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "regionSlug": "pays-de-la-loire",
+    "totalCentres": 86,
+    "prixMoyen": 88,
+    "prixMin": 74,
+    "prixMax": 97,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Angers",
+        "count": 13
+      },
+      {
+        "ville": "Cholet",
+        "count": 7
+      },
+      {
+        "ville": "Longué-Jumelles",
+        "count": 3
+      },
+      {
+        "ville": "Saumur",
+        "count": 3
+      },
+      {
+        "ville": "Beaupréau",
+        "count": 3
+      },
+      {
+        "ville": "Chemillé-Melay",
+        "count": 3
+      },
+      {
+        "ville": "Les Ponts-de-Cé",
+        "count": 2
+      },
+      {
+        "ville": "Distré",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "50",
+    "name": "Manche",
+    "region": "Normandie",
+    "regionSlug": "normandie",
+    "totalCentres": 55,
+    "prixMoyen": 80,
+    "prixMin": 68,
+    "prixMax": 91,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Cherbourg-en-Cotentin",
+        "count": 8
+      },
+      {
+        "ville": "Carentan",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Lô",
+        "count": 3
+      },
+      {
+        "ville": "Coutances",
+        "count": 3
+      },
+      {
+        "ville": "Saint-James",
+        "count": 2
+      },
+      {
+        "ville": "Agneaux",
+        "count": 2
+      },
+      {
+        "ville": "Ducey",
+        "count": 2
+      },
+      {
+        "ville": "Granville",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "51",
+    "name": "Marne",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 56,
+    "prixMoyen": 87,
+    "prixMin": 67,
+    "prixMax": 103,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Reims",
+        "count": 8
+      },
+      {
+        "ville": "Châlons-en-Champagne",
+        "count": 5
+      },
+      {
+        "ville": "Cormontreuil",
+        "count": 4
+      },
+      {
+        "ville": "Vitry-le-François",
+        "count": 3
+      },
+      {
+        "ville": "Tinqueux",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Brice-Courcelles",
+        "count": 2
+      },
+      {
+        "ville": "Sézanne",
+        "count": 2
+      },
+      {
+        "ville": "Épernay",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "52",
+    "name": "Haute-Marne",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 28,
+    "prixMoyen": 80,
+    "prixMin": 55,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Saint-Dizier",
+        "count": 5
+      },
+      {
+        "ville": "Chaumont",
+        "count": 5
+      },
+      {
+        "ville": "Montier-en-Der",
+        "count": 2
+      },
+      {
+        "ville": "Bourbonne-les-Bains",
+        "count": 2
+      },
+      {
+        "ville": "Langres",
+        "count": 2
+      },
+      {
+        "ville": "Joinville",
+        "count": 2
+      },
+      {
+        "ville": "Valcourt",
+        "count": 1
+      },
+      {
+        "ville": "Nogent",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "53",
+    "name": "Mayenne",
+    "region": "Pays de la Loire",
+    "regionSlug": "pays-de-la-loire",
+    "totalCentres": 34,
+    "prixMoyen": 81,
+    "prixMin": 60,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Laval",
+        "count": 6
+      },
+      {
+        "ville": "Mayenne",
+        "count": 4
+      },
+      {
+        "ville": "Château-Gontier",
+        "count": 4
+      },
+      {
+        "ville": "Villaines-la-Juhel",
+        "count": 2
+      },
+      {
+        "ville": "Craon",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Berthevin",
+        "count": 2
+      },
+      {
+        "ville": "Changé",
+        "count": 2
+      },
+      {
+        "ville": "Pré-en-Pail",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "54",
+    "name": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 65,
+    "prixMoyen": 85,
+    "prixMin": 65,
+    "prixMax": 99,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Nancy",
+        "count": 6
+      },
+      {
+        "ville": "Pont-à-Mousson",
+        "count": 3
+      },
+      {
+        "ville": "Lunéville",
+        "count": 3
+      },
+      {
+        "ville": "Laxou",
+        "count": 3
+      },
+      {
+        "ville": "Vandoeuvre-lès-Nancy",
+        "count": 3
+      },
+      {
+        "ville": "Ludres",
+        "count": 3
+      },
+      {
+        "ville": "Toul",
+        "count": 3
+      },
+      {
+        "ville": "Essey-lès-Nancy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "55",
+    "name": "Meuse",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 18,
+    "prixMoyen": 81,
+    "prixMin": 75,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 6,
+    "topVilles": [
+      {
+        "ville": "Verdun",
+        "count": 5
+      },
+      {
+        "ville": "Commercy",
+        "count": 2
+      },
+      {
+        "ville": "Revigny-sur-Ornain",
+        "count": 1
+      },
+      {
+        "ville": "Varennes-en-Argonne",
+        "count": 1
+      },
+      {
+        "ville": "Bar-le-Duc",
+        "count": 1
+      },
+      {
+        "ville": "Gondrecourt-le-Château",
+        "count": 1
+      },
+      {
+        "ville": "Longeville-en-Barrois",
+        "count": 1
+      },
+      {
+        "ville": "Ligny-en-Barrois",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "56",
+    "name": "Morbihan",
+    "region": "Bretagne",
+    "regionSlug": "bretagne",
+    "totalCentres": 88,
+    "prixMoyen": 87,
+    "prixMin": 68,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Vannes",
+        "count": 8
+      },
+      {
+        "ville": "Questembert",
+        "count": 4
+      },
+      {
+        "ville": "Lorient",
+        "count": 4
+      },
+      {
+        "ville": "Pontivy",
+        "count": 3
+      },
+      {
+        "ville": "Ploërmel",
+        "count": 3
+      },
+      {
+        "ville": "Lanester",
+        "count": 3
+      },
+      {
+        "ville": "Caudan",
+        "count": 2
+      },
+      {
+        "ville": "Riantec",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "57",
+    "name": "Moselle",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 95,
+    "prixMoyen": 74,
+    "prixMin": 45,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Forbach",
+        "count": 4
+      },
+      {
+        "ville": "Woippy",
+        "count": 4
+      },
+      {
+        "ville": "Metz",
+        "count": 4
+      },
+      {
+        "ville": "Sarrebourg",
+        "count": 4
+      },
+      {
+        "ville": "Fameck",
+        "count": 3
+      },
+      {
+        "ville": "Creutzwald",
+        "count": 3
+      },
+      {
+        "ville": "Sarreguemines",
+        "count": 3
+      },
+      {
+        "ville": "Marly",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "58",
+    "name": "Nièvre",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 32,
+    "prixMoyen": 81,
+    "prixMin": 70,
+    "prixMax": 91,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Nevers",
+        "count": 4
+      },
+      {
+        "ville": "Cosne-Cours-sur-Loire",
+        "count": 3
+      },
+      {
+        "ville": "La Charité-sur-Loire",
+        "count": 2
+      },
+      {
+        "ville": "Clamecy",
+        "count": 2
+      },
+      {
+        "ville": "Corbigny",
+        "count": 2
+      },
+      {
+        "ville": "Imphy",
+        "count": 1
+      },
+      {
+        "ville": "Sauvigny-les-Bois",
+        "count": 1
+      },
+      {
+        "ville": "Fourchambault",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "59",
+    "name": "Nord",
+    "region": "Hauts-de-France",
+    "regionSlug": "hauts-de-france",
+    "totalCentres": 208,
+    "prixMoyen": 80,
+    "prixMin": 60,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Lille",
+        "count": 16
+      },
+      {
+        "ville": "Roubaix",
+        "count": 9
+      },
+      {
+        "ville": "Wattrelos",
+        "count": 6
+      },
+      {
+        "ville": "Tourcoing",
+        "count": 5
+      },
+      {
+        "ville": "Dunkerque",
+        "count": 5
+      },
+      {
+        "ville": "Cambrai",
+        "count": 4
+      },
+      {
+        "ville": "Roncq",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Amand-les-Eaux",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "code": "60",
+    "name": "Oise",
+    "region": "Hauts-de-France",
+    "regionSlug": "hauts-de-france",
+    "totalCentres": 81,
+    "prixMoyen": 80,
+    "prixMin": 50,
+    "prixMax": 94,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Beauvais",
+        "count": 7
+      },
+      {
+        "ville": "Saint-Maximin",
+        "count": 4
+      },
+      {
+        "ville": "Nogent-sur-Oise",
+        "count": 4
+      },
+      {
+        "ville": "Noyon",
+        "count": 3
+      },
+      {
+        "ville": "Compiègne",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Just-en-Chaussée",
+        "count": 3
+      },
+      {
+        "ville": "Sainte-Geneviève",
+        "count": 2
+      },
+      {
+        "ville": "Montataire",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "61",
+    "name": "Orne",
+    "region": "Normandie",
+    "regionSlug": "normandie",
+    "totalCentres": 33,
+    "prixMoyen": 80,
+    "prixMin": 69,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Alençon",
+        "count": 4
+      },
+      {
+        "ville": "La Ferté-Macé",
+        "count": 3
+      },
+      {
+        "ville": "Flers",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Georges-des-Groseillers",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Sulpice-sur-Risle",
+        "count": 2
+      },
+      {
+        "ville": "Argentan",
+        "count": 2
+      },
+      {
+        "ville": "Domfront",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Langis-lès-Mortagne",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "62",
+    "name": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "regionSlug": "hauts-de-france",
+    "totalCentres": 120,
+    "prixMoyen": 79,
+    "prixMin": 59,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Arras",
+        "count": 6
+      },
+      {
+        "ville": "Liévin",
+        "count": 3
+      },
+      {
+        "ville": "Calais",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Martin-Boulogne",
+        "count": 3
+      },
+      {
+        "ville": "Divion",
+        "count": 2
+      },
+      {
+        "ville": "Arques",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Martin-au-Laërt",
+        "count": 2
+      },
+      {
+        "ville": "Bruay-la-Buissière",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "63",
+    "name": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 65,
+    "prixMoyen": 80,
+    "prixMin": 67,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Clermont-Ferrand",
+        "count": 7
+      },
+      {
+        "ville": "Thiers",
+        "count": 4
+      },
+      {
+        "ville": "Gerzat",
+        "count": 3
+      },
+      {
+        "ville": "Ambert",
+        "count": 3
+      },
+      {
+        "ville": "Issoire",
+        "count": 3
+      },
+      {
+        "ville": "Cébazat",
+        "count": 2
+      },
+      {
+        "ville": "Vic-le-Comte",
+        "count": 2
+      },
+      {
+        "ville": "Lempdes",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "64",
+    "name": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 72,
+    "prixMoyen": 82,
+    "prixMin": 70,
+    "prixMax": 112,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Bayonne",
+        "count": 6
+      },
+      {
+        "ville": "Anglet",
+        "count": 5
+      },
+      {
+        "ville": "Pau",
+        "count": 4
+      },
+      {
+        "ville": "Morlaàs",
+        "count": 3
+      },
+      {
+        "ville": "Serres-Castet",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Jean-de-Luz",
+        "count": 3
+      },
+      {
+        "ville": "Jurançon",
+        "count": 2
+      },
+      {
+        "ville": "Orthez",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "65",
+    "name": "Hautes-Pyrénées",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 30,
+    "prixMoyen": 79,
+    "prixMin": 70,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 8,
+    "topVilles": [
+      {
+        "ville": "Tarbes",
+        "count": 7
+      },
+      {
+        "ville": "Lourdes",
+        "count": 3
+      },
+      {
+        "ville": "Odos",
+        "count": 3
+      },
+      {
+        "ville": "Lannemezan",
+        "count": 2
+      },
+      {
+        "ville": "Juillan",
+        "count": 2
+      },
+      {
+        "ville": "Pierrefitte-Nestalas",
+        "count": 1
+      },
+      {
+        "ville": "Agos-Vidalos",
+        "count": 1
+      },
+      {
+        "ville": "Rabastens-de-Bigorre",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "66",
+    "name": "Pyrénées-Orientales",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 56,
+    "prixMoyen": 79,
+    "prixMin": 50,
+    "prixMax": 92,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Perpignan",
+        "count": 19
+      },
+      {
+        "ville": "Rivesaltes",
+        "count": 3
+      },
+      {
+        "ville": "Céret",
+        "count": 3
+      },
+      {
+        "ville": "Osséja",
+        "count": 2
+      },
+      {
+        "ville": "Argelès-sur-Mer",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Estève",
+        "count": 2
+      },
+      {
+        "ville": "Ille-sur-Têt",
+        "count": 2
+      },
+      {
+        "ville": "Millas",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "67",
+    "name": "Bas-Rhin",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 83,
+    "prixMoyen": 84,
+    "prixMin": 53,
+    "prixMax": 140,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Strasbourg",
+        "count": 10
+      },
+      {
+        "ville": "Illkirch-Graffenstaden",
+        "count": 4
+      },
+      {
+        "ville": "Saverne",
+        "count": 3
+      },
+      {
+        "ville": "Obernai",
+        "count": 3
+      },
+      {
+        "ville": "Molsheim",
+        "count": 2
+      },
+      {
+        "ville": "Schiltigheim",
+        "count": 2
+      },
+      {
+        "ville": "Eckbolsheim",
+        "count": 2
+      },
+      {
+        "ville": "Wissembourg",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "68",
+    "name": "Haut-Rhin",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 69,
+    "prixMoyen": 85,
+    "prixMin": 60,
+    "prixMax": 109,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Colmar",
+        "count": 9
+      },
+      {
+        "ville": "Mulhouse",
+        "count": 5
+      },
+      {
+        "ville": "Wittenheim",
+        "count": 4
+      },
+      {
+        "ville": "Illzach",
+        "count": 3
+      },
+      {
+        "ville": "Wittelsheim",
+        "count": 3
+      },
+      {
+        "ville": "Hochstatt",
+        "count": 2
+      },
+      {
+        "ville": "Ensisheim",
+        "count": 2
+      },
+      {
+        "ville": "Munster",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "69",
+    "name": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 151,
+    "prixMoyen": 90,
+    "prixMin": 60,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Villeurbanne",
+        "count": 10
+      },
+      {
+        "ville": "Vénissieux",
+        "count": 9
+      },
+      {
+        "ville": "Saint-Priest",
+        "count": 6
+      },
+      {
+        "ville": "Givors",
+        "count": 4
+      },
+      {
+        "ville": "Bron",
+        "count": 4
+      },
+      {
+        "ville": "Villefranche-sur-Saône",
+        "count": 4
+      },
+      {
+        "ville": "Brignais",
+        "count": 4
+      },
+      {
+        "ville": "Vaulx-en-Velin",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "code": "70",
+    "name": "Haute-Saône",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 33,
+    "prixMoyen": 81,
+    "prixMin": 69,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Lure",
+        "count": 3
+      },
+      {
+        "ville": "Héricourt",
+        "count": 2
+      },
+      {
+        "ville": "Villersexel",
+        "count": 2
+      },
+      {
+        "ville": "Noidans-lès-Vesoul",
+        "count": 2
+      },
+      {
+        "ville": "Luxeuil-les-Bains",
+        "count": 2
+      },
+      {
+        "ville": "Gray",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Loup-sur-Semouse",
+        "count": 2
+      },
+      {
+        "ville": "Port-sur-Saône",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "71",
+    "name": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 67,
+    "prixMoyen": 87,
+    "prixMin": 70,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Autun",
+        "count": 4
+      },
+      {
+        "ville": "Mâcon",
+        "count": 4
+      },
+      {
+        "ville": "Montceau-les-Mines",
+        "count": 3
+      },
+      {
+        "ville": "Louhans",
+        "count": 3
+      },
+      {
+        "ville": "Montchanin",
+        "count": 2
+      },
+      {
+        "ville": "Charolles",
+        "count": 2
+      },
+      {
+        "ville": "Charnay-lès-Mâcon",
+        "count": 2
+      },
+      {
+        "ville": "Châtenoy-en-Bresse",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "72",
+    "name": "Sarthe",
+    "region": "Pays de la Loire",
+    "regionSlug": "pays-de-la-loire",
+    "totalCentres": 64,
+    "prixMoyen": 85,
+    "prixMin": 75,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Le Mans",
+        "count": 10
+      },
+      {
+        "ville": "La Flèche",
+        "count": 3
+      },
+      {
+        "ville": "Allonnes",
+        "count": 2
+      },
+      {
+        "ville": "Solesmes",
+        "count": 2
+      },
+      {
+        "ville": "Mamers",
+        "count": 2
+      },
+      {
+        "ville": "Sablé-sur-Sarthe",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Calais",
+        "count": 2
+      },
+      {
+        "ville": "Arnage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "73",
+    "name": "Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 48,
+    "prixMoyen": 95,
+    "prixMin": 79,
+    "prixMax": 120,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Chambéry",
+        "count": 5
+      },
+      {
+        "ville": "Aix-les-Bains",
+        "count": 4
+      },
+      {
+        "ville": "Albertville",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Jean-de-Maurienne",
+        "count": 3
+      },
+      {
+        "ville": "Valgelon-La Rochette",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Pierre-d'Albigny",
+        "count": 2
+      },
+      {
+        "ville": "Le Pont-de-Beauvoisin",
+        "count": 2
+      },
+      {
+        "ville": "Moûtiers",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "74",
+    "name": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "regionSlug": "auvergne-rhone-alpes",
+    "totalCentres": 71,
+    "prixMoyen": 106,
+    "prixMin": 75,
+    "prixMax": 130,
+    "prixContreVisiteMoyen": 21,
+    "topVilles": [
+      {
+        "ville": "Annecy",
+        "count": 10
+      },
+      {
+        "ville": "Ville-la-Grand",
+        "count": 3
+      },
+      {
+        "ville": "Sallanches",
+        "count": 3
+      },
+      {
+        "ville": "Rumilly",
+        "count": 3
+      },
+      {
+        "ville": "Thonon-les-Bains",
+        "count": 3
+      },
+      {
+        "ville": "Sillingy",
+        "count": 3
+      },
+      {
+        "ville": "Marnaz",
+        "count": 2
+      },
+      {
+        "ville": "Cluses",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "75",
+    "name": "Paris",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 15,
+    "prixMoyen": 100,
+    "prixMin": 93,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Paris 20e",
+        "count": 2
+      },
+      {
+        "ville": "Paris 18e",
+        "count": 2
+      },
+      {
+        "ville": "Paris 12e",
+        "count": 2
+      },
+      {
+        "ville": "Paris 13e",
+        "count": 1
+      },
+      {
+        "ville": "Paris 17e",
+        "count": 1
+      },
+      {
+        "ville": "Paris 13e Arrondissement",
+        "count": 1
+      },
+      {
+        "ville": "Paris 15e",
+        "count": 1
+      },
+      {
+        "ville": "Paris 14e",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "76",
+    "name": "Seine-Maritime",
+    "region": "Normandie",
+    "regionSlug": "normandie",
+    "totalCentres": 110,
+    "prixMoyen": 83,
+    "prixMin": 60,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Le Havre",
+        "count": 13
+      },
+      {
+        "ville": "Rouen",
+        "count": 7
+      },
+      {
+        "ville": "Sotteville-lès-Rouen",
+        "count": 4
+      },
+      {
+        "ville": "Le Petit-Quevilly",
+        "count": 3
+      },
+      {
+        "ville": "Elbeuf",
+        "count": 3
+      },
+      {
+        "ville": "Dieppe",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Étienne-du-Rouvray",
+        "count": 3
+      },
+      {
+        "ville": "Forges-les-Eaux",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "77",
+    "name": "Seine-et-Marne",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 104,
+    "prixMoyen": 84,
+    "prixMin": 50,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 20,
+    "topVilles": [
+      {
+        "ville": "Meaux",
+        "count": 5
+      },
+      {
+        "ville": "Dammarie-les-Lys",
+        "count": 5
+      },
+      {
+        "ville": "Nemours",
+        "count": 4
+      },
+      {
+        "ville": "Mitry-Mory",
+        "count": 4
+      },
+      {
+        "ville": "Chelles",
+        "count": 3
+      },
+      {
+        "ville": "Pontault-Combault",
+        "count": 3
+      },
+      {
+        "ville": "Montereau-Fault-Yonne",
+        "count": 3
+      },
+      {
+        "ville": "Roissy-en-Brie",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "78",
+    "name": "Yvelines",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 96,
+    "prixMoyen": 86,
+    "prixMin": 60,
+    "prixMax": 102,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Montigny-le-Bretonneux",
+        "count": 4
+      },
+      {
+        "ville": "Mantes-la-Jolie",
+        "count": 4
+      },
+      {
+        "ville": "Les Mureaux",
+        "count": 4
+      },
+      {
+        "ville": "Versailles",
+        "count": 4
+      },
+      {
+        "ville": "Coignières",
+        "count": 4
+      },
+      {
+        "ville": "Trappes",
+        "count": 3
+      },
+      {
+        "ville": "Conflans-Sainte-Honorine",
+        "count": 3
+      },
+      {
+        "ville": "Limay",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "79",
+    "name": "Deux-Sèvres",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 41,
+    "prixMoyen": 77,
+    "prixMin": 60,
+    "prixMax": 90,
+    "prixContreVisiteMoyen": 10,
+    "topVilles": [
+      {
+        "ville": "Niort",
+        "count": 4
+      },
+      {
+        "ville": "Thouars",
+        "count": 3
+      },
+      {
+        "ville": "Bressuire",
+        "count": 3
+      },
+      {
+        "ville": "Parthenay",
+        "count": 3
+      },
+      {
+        "ville": "Sainte-Verge",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Maixent-l'École",
+        "count": 2
+      },
+      {
+        "ville": "Chauray",
+        "count": 2
+      },
+      {
+        "ville": "La Mothe-Saint-Héray",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "80",
+    "name": "Somme",
+    "region": "Hauts-de-France",
+    "regionSlug": "hauts-de-france",
+    "totalCentres": 56,
+    "prixMoyen": 81,
+    "prixMin": 73,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 11,
+    "topVilles": [
+      {
+        "ville": "Amiens",
+        "count": 7
+      },
+      {
+        "ville": "Abbeville",
+        "count": 3
+      },
+      {
+        "ville": "Albert",
+        "count": 3
+      },
+      {
+        "ville": "Flixecourt",
+        "count": 2
+      },
+      {
+        "ville": "Montdidier",
+        "count": 2
+      },
+      {
+        "ville": "Doullens",
+        "count": 2
+      },
+      {
+        "ville": "Bernaville",
+        "count": 1
+      },
+      {
+        "ville": "L'Étoile",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "81",
+    "name": "Tarn",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 44,
+    "prixMoyen": 83,
+    "prixMin": 65,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Albi",
+        "count": 6
+      },
+      {
+        "ville": "Castres",
+        "count": 4
+      },
+      {
+        "ville": "Gaillac",
+        "count": 3
+      },
+      {
+        "ville": "Lavaur",
+        "count": 3
+      },
+      {
+        "ville": "Carmaux",
+        "count": 2
+      },
+      {
+        "ville": "Lacaune",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Sulpice",
+        "count": 2
+      },
+      {
+        "ville": "Mazamet",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "82",
+    "name": "Tarn-et-Garonne",
+    "region": "Occitanie",
+    "regionSlug": "occitanie",
+    "totalCentres": 40,
+    "prixMoyen": 79,
+    "prixMin": 60,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Montauban",
+        "count": 13
+      },
+      {
+        "ville": "Moissac",
+        "count": 3
+      },
+      {
+        "ville": "Castelsarrasin",
+        "count": 3
+      },
+      {
+        "ville": "Caussade",
+        "count": 3
+      },
+      {
+        "ville": "Montech",
+        "count": 2
+      },
+      {
+        "ville": "Bruniquel",
+        "count": 1
+      },
+      {
+        "ville": "Montaigu-de-Quercy",
+        "count": 1
+      },
+      {
+        "ville": "Bressols",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "83",
+    "name": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 106,
+    "prixMoyen": 89,
+    "prixMin": 57,
+    "prixMax": 109,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Fréjus",
+        "count": 5
+      },
+      {
+        "ville": "Draguignan",
+        "count": 5
+      },
+      {
+        "ville": "Hyères",
+        "count": 5
+      },
+      {
+        "ville": "La Garde",
+        "count": 4
+      },
+      {
+        "ville": "Six-Fours-les-Plages",
+        "count": 4
+      },
+      {
+        "ville": "La Seyne-sur-Mer",
+        "count": 4
+      },
+      {
+        "ville": "Brignoles",
+        "count": 4
+      },
+      {
+        "ville": "La Valette-du-Var",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "code": "84",
+    "name": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "regionSlug": "provence-alpes-cote-d-azur",
+    "totalCentres": 60,
+    "prixMoyen": 84,
+    "prixMin": 58,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 15,
+    "topVilles": [
+      {
+        "ville": "Bollène",
+        "count": 4
+      },
+      {
+        "ville": "Orange",
+        "count": 4
+      },
+      {
+        "ville": "Pertuis",
+        "count": 4
+      },
+      {
+        "ville": "Avignon",
+        "count": 4
+      },
+      {
+        "ville": "Carpentras",
+        "count": 4
+      },
+      {
+        "ville": "Cavaillon",
+        "count": 4
+      },
+      {
+        "ville": "Apt",
+        "count": 3
+      },
+      {
+        "ville": "Vaison-la-Romaine",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "85",
+    "name": "Vendée",
+    "region": "Pays de la Loire",
+    "regionSlug": "pays-de-la-loire",
+    "totalCentres": 82,
+    "prixMoyen": 84,
+    "prixMin": 69,
+    "prixMax": 97,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "La Roche-sur-Yon",
+        "count": 6
+      },
+      {
+        "ville": "Fontenay-le-Comte",
+        "count": 5
+      },
+      {
+        "ville": "Les Herbiers",
+        "count": 5
+      },
+      {
+        "ville": "Challans",
+        "count": 5
+      },
+      {
+        "ville": "Luçon",
+        "count": 3
+      },
+      {
+        "ville": "Montaigu",
+        "count": 3
+      },
+      {
+        "ville": "Le Poiré-sur-Vie",
+        "count": 3
+      },
+      {
+        "ville": "Les Sables-d'Olonne",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "86",
+    "name": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 56,
+    "prixMoyen": 80,
+    "prixMin": 69,
+    "prixMax": 94,
+    "prixContreVisiteMoyen": 16,
+    "topVilles": [
+      {
+        "ville": "Poitiers",
+        "count": 8
+      },
+      {
+        "ville": "Châtellerault",
+        "count": 7
+      },
+      {
+        "ville": "Loudun",
+        "count": 3
+      },
+      {
+        "ville": "Dangé-Saint-Romain",
+        "count": 2
+      },
+      {
+        "ville": "Chauvigny",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Benoît",
+        "count": 2
+      },
+      {
+        "ville": "Montmorillon",
+        "count": 2
+      },
+      {
+        "ville": "Lusignan",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "87",
+    "name": "Haute-Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "regionSlug": "nouvelle-aquitaine",
+    "totalCentres": 49,
+    "prixMoyen": 80,
+    "prixMin": 62,
+    "prixMax": 98,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Limoges",
+        "count": 11
+      },
+      {
+        "ville": "Saint-Junien",
+        "count": 3
+      },
+      {
+        "ville": "Rochechouart",
+        "count": 2
+      },
+      {
+        "ville": "Nantiat",
+        "count": 2
+      },
+      {
+        "ville": "Nexon",
+        "count": 2
+      },
+      {
+        "ville": "Le Dorat",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Yrieix-la-Perche",
+        "count": 2
+      },
+      {
+        "ville": "Verneuil-sur-Vienne",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "88",
+    "name": "Vosges",
+    "region": "Grand Est",
+    "regionSlug": "grand-est",
+    "totalCentres": 48,
+    "prixMoyen": 86,
+    "prixMin": 69,
+    "prixMax": 99,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Saint-Étienne-lès-Remiremont",
+        "count": 4
+      },
+      {
+        "ville": "Golbey",
+        "count": 4
+      },
+      {
+        "ville": "Épinal",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Dié-des-Vosges",
+        "count": 4
+      },
+      {
+        "ville": "Poussay",
+        "count": 2
+      },
+      {
+        "ville": "Charmes",
+        "count": 2
+      },
+      {
+        "ville": "Vittel",
+        "count": 2
+      },
+      {
+        "ville": "Rambervillers",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "89",
+    "name": "Yonne",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 52,
+    "prixMoyen": 80,
+    "prixMin": 59,
+    "prixMax": 91,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Auxerre",
+        "count": 7
+      },
+      {
+        "ville": "Migennes",
+        "count": 5
+      },
+      {
+        "ville": "Sens",
+        "count": 4
+      },
+      {
+        "ville": "Appoigny",
+        "count": 3
+      },
+      {
+        "ville": "Pont-sur-Yonne",
+        "count": 3
+      },
+      {
+        "ville": "Avallon",
+        "count": 3
+      },
+      {
+        "ville": "Villeneuve-sur-Yonne",
+        "count": 2
+      },
+      {
+        "ville": "Saint-Florentin",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "90",
+    "name": "Territoire de Belfort",
+    "region": "Bourgogne-Franche-Comté",
+    "regionSlug": "bourgogne-franche-comte",
+    "totalCentres": 16,
+    "prixMoyen": 85,
+    "prixMin": 75,
+    "prixMax": 96,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Belfort",
+        "count": 5
+      },
+      {
+        "ville": "Denney",
+        "count": 2
+      },
+      {
+        "ville": "Beaucourt",
+        "count": 2
+      },
+      {
+        "ville": "Valdoie",
+        "count": 2
+      },
+      {
+        "ville": "Bavilliers",
+        "count": 1
+      },
+      {
+        "ville": "Argiésans",
+        "count": 1
+      },
+      {
+        "ville": "Grandvillars",
+        "count": 1
+      },
+      {
+        "ville": "Delle",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "91",
+    "name": "Essonne",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 94,
+    "prixMoyen": 92,
+    "prixMin": 80,
+    "prixMax": 106,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Corbeil-Essonnes",
+        "count": 6
+      },
+      {
+        "ville": "Chilly-Mazarin",
+        "count": 3
+      },
+      {
+        "ville": "Étampes",
+        "count": 3
+      },
+      {
+        "ville": "Mennecy",
+        "count": 3
+      },
+      {
+        "ville": "Athis-Mons",
+        "count": 3
+      },
+      {
+        "ville": "Morangis",
+        "count": 3
+      },
+      {
+        "ville": "Évry",
+        "count": 3
+      },
+      {
+        "ville": "Massy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "92",
+    "name": "Hauts-de-Seine",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 34,
+    "prixMoyen": 94,
+    "prixMin": 70,
+    "prixMax": 109,
+    "prixContreVisiteMoyen": 20,
+    "topVilles": [
+      {
+        "ville": "Nanterre",
+        "count": 5
+      },
+      {
+        "ville": "Châtenay-Malabry",
+        "count": 3
+      },
+      {
+        "ville": "Boulogne-Billancourt",
+        "count": 3
+      },
+      {
+        "ville": "Gennevilliers",
+        "count": 2
+      },
+      {
+        "ville": "Châtillon",
+        "count": 2
+      },
+      {
+        "ville": "Meudon",
+        "count": 2
+      },
+      {
+        "ville": "Bois-Colombes",
+        "count": 2
+      },
+      {
+        "ville": "Clamart",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "93",
+    "name": "Seine-Saint-Denis",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 84,
+    "prixMoyen": 89,
+    "prixMin": 69,
+    "prixMax": 105,
+    "prixContreVisiteMoyen": 13,
+    "topVilles": [
+      {
+        "ville": "Aulnay-sous-Bois",
+        "count": 6
+      },
+      {
+        "ville": "Aubervilliers",
+        "count": 6
+      },
+      {
+        "ville": "Romainville",
+        "count": 6
+      },
+      {
+        "ville": "La Courneuve",
+        "count": 5
+      },
+      {
+        "ville": "Livry-Gargan",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Denis",
+        "count": 4
+      },
+      {
+        "ville": "Gagny",
+        "count": 4
+      },
+      {
+        "ville": "Bondy",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "94",
+    "name": "Val-de-Marne",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 59,
+    "prixMoyen": 93,
+    "prixMin": 75,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 14,
+    "topVilles": [
+      {
+        "ville": "Saint-Maur-des-Fossés",
+        "count": 5
+      },
+      {
+        "ville": "Choisy-le-Roi",
+        "count": 4
+      },
+      {
+        "ville": "Vitry-sur-Seine",
+        "count": 4
+      },
+      {
+        "ville": "Chennevières-sur-Marne",
+        "count": 4
+      },
+      {
+        "ville": "Villejuif",
+        "count": 4
+      },
+      {
+        "ville": "Champigny-sur-Marne",
+        "count": 4
+      },
+      {
+        "ville": "Villeneuve-Saint-Georges",
+        "count": 3
+      },
+      {
+        "ville": "Créteil",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "95",
+    "name": "Val-d'Oise",
+    "region": "Île-de-France",
+    "regionSlug": "ile-de-france",
+    "totalCentres": 85,
+    "prixMoyen": 86,
+    "prixMin": 65,
+    "prixMax": 100,
+    "prixContreVisiteMoyen": 17,
+    "topVilles": [
+      {
+        "ville": "Argenteuil",
+        "count": 7
+      },
+      {
+        "ville": "Bezons",
+        "count": 4
+      },
+      {
+        "ville": "Herblay",
+        "count": 4
+      },
+      {
+        "ville": "Domont",
+        "count": 4
+      },
+      {
+        "ville": "Cormeilles-en-Parisis",
+        "count": 4
+      },
+      {
+        "ville": "Franconville",
+        "count": 3
+      },
+      {
+        "ville": "Persan",
+        "count": 3
+      },
+      {
+        "ville": "Saint-Brice-sous-Forêt",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "971",
+    "name": "Guadeloupe",
+    "region": "Guadeloupe",
+    "regionSlug": "guadeloupe",
+    "totalCentres": 28,
+    "prixMoyen": 91,
+    "prixMin": 80,
+    "prixMax": 120,
+    "prixContreVisiteMoyen": 30,
+    "topVilles": [
+      {
+        "ville": "Baie-Mahault",
+        "count": 6
+      },
+      {
+        "ville": "Les Abymes",
+        "count": 5
+      },
+      {
+        "ville": "Le Moule",
+        "count": 3
+      },
+      {
+        "ville": "Saint-François",
+        "count": 2
+      },
+      {
+        "ville": "Le Gosier",
+        "count": 2
+      },
+      {
+        "ville": "Grand-Bourg",
+        "count": 2
+      },
+      {
+        "ville": "Morne-à-l'Eau",
+        "count": 1
+      },
+      {
+        "ville": "Sainte-Rose",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "972",
+    "name": "Martinique",
+    "region": "Martinique",
+    "regionSlug": "martinique",
+    "totalCentres": 43,
+    "prixMoyen": 86,
+    "prixMin": 70,
+    "prixMax": 110,
+    "prixContreVisiteMoyen": 18,
+    "topVilles": [
+      {
+        "ville": "Le Lamentin",
+        "count": 10
+      },
+      {
+        "ville": "Fort-de-France",
+        "count": 7
+      },
+      {
+        "ville": "Ducos",
+        "count": 4
+      },
+      {
+        "ville": "Rivière-Salée",
+        "count": 3
+      },
+      {
+        "ville": "Le Vauclin",
+        "count": 2
+      },
+      {
+        "ville": "Schoelcher",
+        "count": 2
+      },
+      {
+        "ville": "Les Trois-Îlets",
+        "count": 2
+      },
+      {
+        "ville": "Le Robert",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "code": "973",
+    "name": "Guyane",
+    "region": "Guyane",
+    "regionSlug": "guyane",
+    "totalCentres": 5,
+    "prixMoyen": 90,
+    "prixMin": 85,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 37,
+    "topVilles": [
+      {
+        "ville": "Cayenne",
+        "count": 3
+      },
+      {
+        "ville": "Matoury",
+        "count": 1
+      },
+      {
+        "ville": "Macouria",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "code": "974",
+    "name": "La Réunion",
+    "region": "La Réunion",
+    "regionSlug": "la-reunion",
+    "totalCentres": 61,
+    "prixMoyen": 92,
+    "prixMin": 60,
+    "prixMax": 103,
+    "prixContreVisiteMoyen": 12,
+    "topVilles": [
+      {
+        "ville": "Saint-Paul",
+        "count": 9
+      },
+      {
+        "ville": "Saint-Denis",
+        "count": 9
+      },
+      {
+        "ville": "Le Tampon",
+        "count": 7
+      },
+      {
+        "ville": "Saint-Pierre",
+        "count": 6
+      },
+      {
+        "ville": "Saint-Louis",
+        "count": 5
+      },
+      {
+        "ville": "Saint-André",
+        "count": 5
+      },
+      {
+        "ville": "Saint-Benoît",
+        "count": 4
+      },
+      {
+        "ville": "Saint-Joseph",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "code": "976",
+    "name": "Mayotte",
+    "region": "Mayotte",
+    "regionSlug": "mayotte",
+    "totalCentres": 1,
+    "prixMoyen": 95,
+    "prixMin": 95,
+    "prixMax": 95,
+    "prixContreVisiteMoyen": 30,
+    "topVilles": [
+      {
+        "ville": "Koungou",
+        "count": 1
+      }
+    ]
+  }
+]

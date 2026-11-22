@@ -1,0 +1,62 @@
+{
+  "totalCentres": 6168,
+  "prixMoyen": 84,
+  "prixMin": 45,
+  "prixMax": 140,
+  "prixContreVisiteMoyen": 14,
+  "topMoinsChers": [
+    {
+      "code": "45",
+      "name": "Loiret",
+      "prixMoyen": 72
+    },
+    {
+      "code": "09",
+      "name": "Ariège",
+      "prixMoyen": 74
+    },
+    {
+      "code": "57",
+      "name": "Moselle",
+      "prixMoyen": 74
+    },
+    {
+      "code": "15",
+      "name": "Cantal",
+      "prixMoyen": 75
+    },
+    {
+      "code": "42",
+      "name": "Loire",
+      "prixMoyen": 75
+    }
+  ],
+  "topPlusChers": [
+    {
+      "code": "74",
+      "name": "Haute-Savoie",
+      "prixMoyen": 106
+    },
+    {
+      "code": "75",
+      "name": "Paris",
+      "prixMoyen": 100
+    },
+    {
+      "code": "04",
+      "name": "Alpes-de-Haute-Provence",
+      "prixMoyen": 95
+    },
+    {
+      "code": "06",
+      "name": "Alpes-Maritimes",
+      "prixMoyen": 95
+    },
+    {
+      "code": "2A",
+      "name": "Corse-du-Sud",
+      "prixMoyen": 95
+    }
+  ],
+  "derniereMiseAJour": "2026-11-22"
+}
