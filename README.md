@@ -1,6 +1,6 @@
 # Contrôle Technique France 2026 — Ododex (`/fr/controle-technique`)
 
-Annuaire officiel de 6 168 centres agréés de contrôle technique en France, comparateur de tarifs constatés et calculateur de date d'échéance légale pour voitures particulières, utilitaires et deux-roues (CT2RM).
+Annuaire de 6 168 centres agréés de contrôle technique en France, comparateur de tarifs constatés et calculateur de date d'échéance légale pour voitures particulières, utilitaires et deux-roues (CT2RM).
 
 - **URL en production** : [https://ododex.com/fr/controle-technique](https://ododex.com/fr/controle-technique)
 - **Worker Cloudflare** : `ododex-controle-technique`
