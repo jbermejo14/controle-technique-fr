@@ -4,9 +4,9 @@ import { absoluteUrl, BASE_PATH, SITE_NAME, SITE_ORIGIN } from './site';
 import type { DepartementInfo } from './centres';
 import type { GuideArticle } from './guides';
 
-/** Longueur máxima admitida del título completo (con marca). */
+/** Longitud máxima admitida del título completo (con marca). */
 export const SEO_TITLE_MAX_LENGTH = 65;
-/** Longueur objetivo del título completo: se prefiere la plantilla más rica que quepa aquí. */
+/** Longitud objetivo del título completo: se prefiere la plantilla más rica que quepa aquí. */
 export const SEO_TITLE_TARGET_LENGTH = 60;
 export const SEO_DESCRIPTION_MIN_LENGTH = 120;
 export const SEO_DESCRIPTION_MAX_LENGTH = 160;

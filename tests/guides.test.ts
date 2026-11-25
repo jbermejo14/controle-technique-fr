@@ -24,3 +24,10 @@ describe('Guides pratiques du contrôle technique', () => {
     assert.match(g?.title || '', /Délais et calendrier/);
   });
 });
+
+describe('metaTitle del guide sur la contre-visite', () => {
+  it('utilise la formulation naturelle « Éviter la contre-visite … »', () => {
+    const guide = getGuideBySlug('defaillances-contre-visite-eviter');
+    assert.equal(guide?.metaTitle, 'Éviter la contre-visite du contrôle technique');
+  });
+});

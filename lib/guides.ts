@@ -138,7 +138,7 @@ export const GUIDES: GuideArticle[] = [
   {
     slug: 'defaillances-contre-visite-eviter',
     title: 'Défaillances du contrôle technique : comment éviter la contre-visite ?',
-    metaTitle: 'Contre-visite du contrôle technique : l’éviter',
+    metaTitle: 'Éviter la contre-visite du contrôle technique',
     metaDescription: 'Défaillance mineure, majeure ou critique : découvrez les motifs les plus fréquents de contre-visite et notre check-list simple pour réussir du premier coup.',
     summary: 'Avec 133 points de contrôle et plus de 600 défaillances possibles, près d’un véhicule sur cinq est recalé au contrôle technique. Voici les vérifications faciles à faire vous-même pour passer sans encombre.',
     readTime: '7 min',
