@@ -12,7 +12,7 @@ const URL_CNIL_PLAINTE = 'https://www.cnil.fr/fr/plaintes';
 export const metadata = legalMetadata(
   PATH,
   'Politique de confidentialité',
-  `Traitement des données personnelles sur ${SITE_NAME}, conformément au RGPD.`
+  `Politique de confidentialité de ${SITE_NAME} : données personnelles traitées, finalités, durées de conservation et droits que vous pouvez exercer (RGPD).`
 );
 
 export default function ConfidentialitePage() {

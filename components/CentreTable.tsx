@@ -47,7 +47,7 @@ export function CentreTable({ centres, deptName }: Props) {
           <Search className="w-4 h-4 text-secondary absolute left-3 top-1/2 -translate-y-1/2" />
           <input
             type="text"
-            placeholder={`Rechercher une ville ou un centre en ${deptName}...`}
+            placeholder={`Rechercher une ville ou un centre (${deptName})…`}
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             className="w-full bg-elevated border border-line rounded-lg pl-9 pr-3 py-2 text-sm text-fg placeholder:text-muted focus:outline-none focus:border-accent"

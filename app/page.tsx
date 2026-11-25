@@ -31,7 +31,7 @@ export default function HomePage() {
     '@type': 'WebSite',
     name: 'Ododex Contrôle Technique',
     url: absoluteUrl('/'),
-    description: 'Comparateur officiel de prix du contrôle technique en France (DGCCRF) et simulateur de date d’échéance.'
+    description: 'Comparateur de prix du contrôle technique en France (données DGCCRF) et simulateur de date d’échéance.'
   };
 
   const faqSchema = {
@@ -89,7 +89,7 @@ export default function HomePage() {
         <div className="text-center space-y-4 max-w-3xl mx-auto pt-4">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-accent/10 border border-accent/20 text-accent text-xs font-semibold">
             <ShieldCheck className="w-4 h-4" />
-            Données officielles DGCCRF · {stats.totalCentres.toLocaleString('fr-FR')} centres agréés
+            Données DGCCRF · {stats.totalCentres.toLocaleString('fr-FR')} centres agréés
           </div>
 
           <h1 className="text-3xl sm:text-4xl font-extrabold text-fg tracking-tight">

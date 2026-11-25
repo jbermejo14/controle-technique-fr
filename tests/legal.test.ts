@@ -27,7 +27,7 @@ describe('Textes légaux et titulaire', () => {
 
   it('génère les métadonnées avec noindex pour les pages légales', () => {
     const meta = legalMetadata('/mentions-legales', 'Mentions', 'Desc');
-    assert.equal(meta.title, 'Mentions');
+    assert.equal(meta.title, 'Mentions | Ododex');
     assert.deepEqual(meta.robots, { index: false, follow: true });
   });
 });

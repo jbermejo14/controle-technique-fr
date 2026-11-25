@@ -4,27 +4,9 @@ import './globals.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { AdSenseScript } from '@/components/AdSenseScript';
-import { absoluteUrl } from '@/lib/site';
+import { seoRootMetadata } from '@/lib/seo';
 
-export const metadata: Metadata = {
-  title: 'Contrôle Technique 2026 : Prix des Centres & Calculateur de Date | Ododex',
-  description: 'Trouvez le contrôle technique le moins cher parmi plus de 6 100 centres en France (DGCCRF). Calculez votre date limite exacte et évitez l’amende de 135 €.',
-  metadataBase: new URL('https://ododex.com'),
-  alternates: {
-    canonical: absoluteUrl('/'),
-  },
-  icons: {
-    icon: '/fr/controle-technique/icon.svg',
-  },
-  openGraph: {
-    title: 'Contrôle Technique 2026 : Comparateur de Prix & Date Limite | Ododex',
-    description: 'Comparez les prix des centres de contrôle technique agréés en France et calculez votre échéance exacte.',
-    url: absoluteUrl('/'),
-    siteName: 'Ododex',
-    locale: 'fr_FR',
-    type: 'website',
-  },
-};
+export const metadata: Metadata = seoRootMetadata();
 
 export default function RootLayout({
   children,

@@ -12,6 +12,8 @@ import { CentreTable } from '@/components/CentreTable';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { AdSlot } from '@/components/AdSlot';
 import { absoluteUrl } from '@/lib/site';
+import { getDepartementLocative } from '@/lib/departement-articles';
+import { seoDepartementMetadata } from '@/lib/seo';
 import {
   MapPin,
   TrendingDown,
@@ -40,21 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const dept = getDepartementByCode(code);
   if (!dept) return {};
 
-  const title = `Prix Contrôle Technique ${dept.name} (${dept.code}) 2026 : Comparateur & Centres dès ${dept.prixMin} € | Ododex`;
-  const description = `Comparez les tarifs de ${dept.totalCentres} centres de contrôle technique agréés en ${dept.name} (${dept.code}). Prix moyen de ${dept.prixMoyen} €, contre-visite dès ${dept.prixContreVisiteMoyen} €, adresses, téléphones et carte interactive.`;
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical: absoluteUrl(`/departement/${dept.code}`),
-    },
-    openGraph: {
-      title,
-      description,
-      url: absoluteUrl(`/departement/${dept.code}`),
-    },
-  };
+  return seoDepartementMetadata(dept);
 }
 
 export default async function DepartementPage({ params }: Props) {
@@ -62,6 +50,7 @@ export default async function DepartementPage({ params }: Props) {
   const dept = getDepartementByCode(code);
   if (!dept) notFound();
 
+  const where = getDepartementLocative(dept.code);
   const centres = getCentresByDepartement(code);
   const allDepts = getAllDepartements();
   const sameRegionDepts = allDepts
@@ -71,7 +60,7 @@ export default async function DepartementPage({ params }: Props) {
   const itemListSchema = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: `Centres de contrôle technique en ${dept.name} (${dept.code})`,
+    name: `Centres de contrôle technique ${where} (${dept.code})`,
     numberOfItems: centres.length,
     itemListElement: centres.slice(0, 20).map((c, idx) => ({
       '@type': 'ListItem',
@@ -118,11 +107,11 @@ export default async function DepartementPage({ params }: Props) {
           </div>
 
           <h1 className="text-3xl font-extrabold text-fg tracking-tight">
-            Contrôle technique en {dept.name} ({dept.code}) : Prix et centres agréés
+            Contrôle technique {where} ({dept.code}) : prix et centres agréés
           </h1>
 
           <p className="text-sm text-secondary leading-relaxed max-w-3xl">
-            Retrouvez la liste complète et à jour des <strong>{dept.totalCentres} centres agréés</strong> par l’État en {dept.name}. Comparez les tarifs officiels transmis à la DGCCRF pour votre voiture (essence, diesel, hybride, électrique) ou deux-roues et réservez au meilleur prix.
+            Retrouvez la liste complète et à jour des <strong>{dept.totalCentres} centres agréés</strong> par l’État {where}. Comparez les tarifs transmis à la DGCCRF pour votre voiture (essence, diesel, hybride, électrique) ou deux-roues et réservez au meilleur prix.
           </p>
         </div>
 
@@ -157,7 +146,7 @@ export default async function DepartementPage({ params }: Props) {
             <strong className="text-2xl sm:text-3xl font-extrabold text-fg block mt-1">
               {dept.totalCentres}
             </strong>
-            <span className="text-[11px] text-muted mt-1 block">Agréés en {dept.name}</span>
+            <span className="text-[11px] text-muted mt-1 block">Agréés {where}</span>
           </div>
         </div>
 
@@ -166,7 +155,7 @@ export default async function DepartementPage({ params }: Props) {
           <div className="card p-4 border-line bg-surface space-y-2">
             <span className="text-xs font-bold text-fg flex items-center gap-1.5 uppercase tracking-wider">
               <Building2 className="w-4 h-4 text-accent" />
-              Principales communes équipées en {dept.name} :
+              Principales communes équipées {where} :
             </span>
             <div className="flex flex-wrap gap-2 text-xs">
               {dept.topVilles.map(v => (
@@ -187,7 +176,7 @@ export default async function DepartementPage({ params }: Props) {
             <div className="border-b border-line pb-2 flex items-center justify-between">
               <h2 className="text-xl font-bold text-fg flex items-center gap-2">
                 <MapPin className="w-5 h-5 text-accent" />
-                Carte interactive des centres de contrôle en {dept.name}
+                Carte interactive des centres de contrôle {where}
               </h2>
             </div>
             <CentreMap centres={centres} departementName={dept.name} />
@@ -216,11 +205,11 @@ export default async function DepartementPage({ params }: Props) {
         <section className="card p-6 border-line bg-surface space-y-4">
           <h2 className="text-lg font-bold text-fg flex items-center gap-2">
             <Calendar className="w-5 h-5 text-accent" />
-            Comment bien passer son contrôle technique en {dept.name} ?
+            Comment bien passer son contrôle technique {where} ?
           </h2>
           <div className="text-xs text-secondary space-y-3 leading-relaxed">
             <p>
-              • <strong>Prenez rendez-vous en ligne</strong> : plusieurs enseignes de {dept.name} proposent des remises jusqu’à 15 € sur les créneaux matinaux du mardi au jeudi.
+              • <strong>Prenez rendez-vous en ligne</strong> : plusieurs enseignes {where} proposent des remises jusqu’à 15 € sur les créneaux matinaux du mardi au jeudi.
             </p>
             <p>
               • <strong>Vérifiez vos ampoules et votre pression</strong> : un tiers des contre-visites en France est provoqué par une simple ampoule défaillante ou un pneu sous-gonflé. Vous économiserez ainsi les {dept.prixContreVisiteMoyen} € moyens de contre-visite.

@@ -23,7 +23,7 @@ export const GUIDES: GuideArticle[] = [
   {
     slug: 'delais-calendrier-controle-technique',
     title: 'Délais et calendrier du contrôle technique : quand le passer ?',
-    metaTitle: 'Calendrier Contrôle Technique 2026 : Délais et Date Limite',
+    metaTitle: 'Date limite du contrôle technique : calendrier 2026',
     metaDescription: 'Quand devez-vous passer le contrôle technique ? Règle des 4 ans pour un véhicule neuf, renouvellement tous les 2 ans, et délai de 6 mois en cas de revente.',
     summary: 'Comprendre les échéances légales pour votre voiture, utilitaire ou moto, le calcul à partir de la date de 1ère immatriculation et les délais stricts pour éviter l’amende de 135 €.',
     readTime: '6 min',
@@ -80,7 +80,7 @@ export const GUIDES: GuideArticle[] = [
   {
     slug: 'prix-tarifs-controle-technique-france',
     title: 'Prix du contrôle technique en France : comparatif et astuces pour payer moins cher',
-    metaTitle: 'Prix Contrôle Technique 2026 : Tarifs Moyens par Région',
+    metaTitle: 'Prix du contrôle technique 2026 : tarifs par région',
     metaDescription: 'Quel est le prix moyen du contrôle technique en France ? De 45 € à 140 €, découvrez les tarifs par département et nos astuces pour économiser.',
     summary: 'En France, les tarifs du contrôle technique sont totalement libres. Analyse des prix moyens observés (84 € au national), des écarts territoriaux et des conseils pour trouver le centre le moins cher.',
     readTime: '5 min',
@@ -138,7 +138,7 @@ export const GUIDES: GuideArticle[] = [
   {
     slug: 'defaillances-contre-visite-eviter',
     title: 'Défaillances du contrôle technique : comment éviter la contre-visite ?',
-    metaTitle: 'Éviter la Contre-Visite au Contrôle Technique : Checklist 2026',
+    metaTitle: 'Contre-visite du contrôle technique : l’éviter',
     metaDescription: 'Défaillance mineure, majeure ou critique : découvrez les motifs les plus fréquents de contre-visite et notre check-list simple pour réussir du premier coup.',
     summary: 'Avec 133 points de contrôle et plus de 600 défaillances possibles, près d’un véhicule sur cinq est recalé au contrôle technique. Voici les vérifications faciles à faire vous-même pour passer sans encombre.',
     readTime: '7 min',
@@ -194,8 +194,8 @@ export const GUIDES: GuideArticle[] = [
   {
     slug: 'controle-technique-moto-2024-2025',
     title: 'Contrôle technique moto et catégorie L : règles, tarifs et calendrier',
-    metaTitle: 'Contrôle Technique Moto & Scooter 2026 : Règles et Prix',
-    metaDescription: 'Tout savoir sur le contrôle technique obligatoire des motos, scooters, 50cc, quads et voiturettes : calendrier officiel, durée de validité et prix.',
+    metaTitle: 'Contrôle technique moto et scooter : règles et prix',
+    metaDescription: 'Tout savoir sur le contrôle technique obligatoire des motos, scooters, 50cc, quads et voiturettes : calendrier, durée de validité et prix.',
     summary: 'Instauré en France depuis avril 2024, le contrôle technique de la catégorie L concerne tous les 2-roues, 3-roues et voiturettes. Calendrier de déploiement, points vérifiés et tarifs constatés.',
     readTime: '6 min',
     publishedAt: '2026-03-05',

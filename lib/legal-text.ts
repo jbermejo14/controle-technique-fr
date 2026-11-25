@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { FECHA_TEXTOS_LEGALES } from './legal';
 import type { Titular } from './legal';
 import { absoluteUrl } from './site';
+import { seoBrandedTitle, seoSocialMetadata } from './seo';
 
 export const LEGAL_ROBOTS = { index: false, follow: true } as const;
 
@@ -24,10 +25,12 @@ export function legalReviewDate(isoDate: string = FECHA_TEXTOS_LEGALES): string 
 }
 
 export function legalMetadata(path: string, title: string, description: string): Metadata {
+  const fullTitle = seoBrandedTitle(title);
   return {
-    title,
+    title: fullTitle,
     description,
     robots: LEGAL_ROBOTS,
-    alternates: { canonical: absoluteUrl(path) }
+    alternates: { canonical: absoluteUrl(path) },
+    ...seoSocialMetadata(fullTitle, description, path)
   };
 }
